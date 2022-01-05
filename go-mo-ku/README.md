@@ -1,9 +1,8 @@
 # 五子棋
 自製的簡易五子棋，點選下方棋盤紀錄可跳轉回當時盤面。
-後來加入alpha-beta對弈樹當白子AI
-
+後來加入對弈樹當白子AI
 使用到 React 與 Scss, 用 Webpack 編譯打包
-在GCP上使用Express來當演算法server端
+使用Express放在GCP上當演算法server端
 
 Code: [https://github.com/jklqwe44/gomoku](https://github.com/jklqwe44/gomoku)
 
