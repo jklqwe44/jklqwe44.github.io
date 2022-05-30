@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "./static/css/main.2e0eb81e.css",
-    "main.js": "./static/js/main.7d96398d.js",
+    "main.css": "./static/css/main.cea15ce1.css",
+    "main.js": "./static/js/main.e2789fee.js",
     "static/js/787.00bb0693.chunk.js": "./static/js/787.00bb0693.chunk.js",
+    "static/media/spacex_logo_2.png": "./static/media/spacex_logo_2.6d5d5d69e999d0b456d4.png",
+    "static/media/spacex_logo.png": "./static/media/spacex_logo.1e5a6ddc1e5411ea708a.png",
+    "static/media/search.svg": "./static/media/search.a9f707898e144ed582fad37d2f803e0b.svg",
+    "static/media/date.svg": "./static/media/date.d2cacabbb7e97e5a5dc7f314fa6052d5.svg",
     "index.html": "./index.html",
-    "main.2e0eb81e.css.map": "./static/css/main.2e0eb81e.css.map",
-    "main.7d96398d.js.map": "./static/js/main.7d96398d.js.map",
+    "static/media/map.svg": "./static/media/map.65cf02305cf4e47e4f073ea91203606a.svg",
+    "main.cea15ce1.css.map": "./static/css/main.cea15ce1.css.map",
+    "main.e2789fee.js.map": "./static/js/main.e2789fee.js.map",
     "787.00bb0693.chunk.js.map": "./static/js/787.00bb0693.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e0eb81e.css",
-    "static/js/main.7d96398d.js"
+    "static/css/main.cea15ce1.css",
+    "static/js/main.e2789fee.js"
   ]
 }
